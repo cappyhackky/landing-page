@@ -5,8 +5,8 @@ import Hero from './Hero'
 import Footer from './Footer'
 
 const images = [
-    '../img/img1.jpg',
-    '../img/img2.jpg',
+    'https://github.com/cappyhackky/landing-page/blob/main/public/img/img1.jpg',
+    './img/img2.jpg',
     '../img/img3.jpg'
   ]
   const data = [
