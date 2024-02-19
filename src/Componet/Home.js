@@ -3,11 +3,12 @@ import NavBar from './NavBar'
 import Carousel from './Carousel'
 import Hero from './Hero'
 import Footer from './Footer'
+// import img from '../../public/img/img3.jpg'
 
 const images = [
     'https://github.com/cappyhackky/landing-page/blob/main/public/img/img1.jpg',
-    './img/img2.JPG',
-    '../img/img3.jpg'
+    './../img/img2.JPG',
+    '../../public/img/img3.jpg'
   ]
   const data = [
     {
