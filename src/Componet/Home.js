@@ -7,7 +7,7 @@ import Footer from './Footer'
 
 const images = [
     'https://github.com/cappyhackky/landing-page/blob/main/public/img/img1.jpg',
-    './../img/img2.JPG',
+    './img/img2.JPG',
     '../../public/img/img3.jpg'
   ]
   const data = [
